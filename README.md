@@ -5,7 +5,7 @@ o	A Full Stack To-do Web App using React.js for front-end and Google Firebase fo
 o	Having separate components for header, input Area, pending and completed lists and footer. </br>
 o	With features to dynamically Add, Delete and Mark as completed tasks by passing the required parameters to each component. </br>
 </br>
-![alt text](https://github.com/styxOO7/ToDo-Web-App/blob/master/githubImages/1.png) </br>
+![alt text](https://github.com/githubImages/1.png) </br>
 User has to fill both title and desc for the record to get inserted.</br>
 </br>
 ![alt text](https://github.com/styxOO7/ToDo-Web-App/blob/master/githubImages/2.png) </br>
