@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ToDo Web App in React Js
 </br>
 This project is created using React Js and Firebase.</br>
 o	A Full Stack To-do Web App using React.js for front-end and Google Firebase for back-end. </br> 
